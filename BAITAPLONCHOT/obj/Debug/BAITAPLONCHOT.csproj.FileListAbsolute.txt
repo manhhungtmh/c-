@@ -1,0 +1,31 @@
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\bin\Debug\BAITAPLONCHOT.exe.config
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\bin\Debug\BAITAPLONCHOT.exe
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\bin\Debug\BAITAPLONCHOT.pdb
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.csprojResolveAssemblyReference.cache
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmDangNhap.resources
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.Properties.Resources.resources
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.csproj.GenerateResource.Cache
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.exe
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.pdb
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmGiaoDienHeThong.resources
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmNhanVien.resources
+c:\users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmKhachHang.resources
+C:\Users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmInformation.resources
+C:\Users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmHoaDon.resources
+C:\Users\hungh\documents\visual studio 2013\Projects\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmThongKe.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.csprojAssemblyReference.cache
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmDangNhap.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmGiaoDienHeThong.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmHoaDon.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmInformation.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmKhachHang.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmNhanVien.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.frmThongKe.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.Properties.Resources.resources
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.csproj.GenerateResource.cache
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.csproj.CoreCompileInputs.cache
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.exe
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\obj\Debug\BAITAPLONCHOT.pdb
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\bin\Debug\BAITAPLONCHOT.exe.config
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\bin\Debug\BAITAPLONCHOT.exe
+F:\Csharp\BTL\BAITAPLONCHOT\BAITAPLONCHOT\bin\Debug\BAITAPLONCHOT.pdb
